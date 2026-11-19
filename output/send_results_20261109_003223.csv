@@ -1,0 +1,3 @@
+﻿timestamp,name,status,detail
+2026-11-09T00:32:18,Alice,failed,Could not find chat 'Alice'. Check the exact visible chat name.
+2026-11-09T00:32:23,Bob,failed,Chat search box not found; WhatsApp may have changed its layout.

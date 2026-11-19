@@ -1,0 +1,6 @@
+2026/11/19-12:08:53.993 21a8 Reusing MANIFEST D:\SEAI\Week1\Day3\cricket-score\wa_session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/19-12:08:53.996 21a8 Recovering log #7
+2026/11/19-12:08:54.001 21a8 Reusing old log D:\SEAI\Week1\Day3\cricket-score\wa_session\Default\Local Storage\leveldb/000007.log 
+2026/11/19-12:11:58.771 21a8 Level-0 table #11: started
+2026/11/19-12:11:58.800 21a8 Level-0 table #11: 16222 bytes OK
+2026/11/19-12:11:58.808 21a8 Delete type=0 #7
